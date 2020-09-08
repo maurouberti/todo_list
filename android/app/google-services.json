@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928589266301",
+    "firebase_url": "https://app-invest-c479e.firebaseio.com",
+    "project_id": "app-invest-c479e",
+    "storage_bucket": "app-invest-c479e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928589266301:android:a3fc32815fc6f5d078e014",
+        "android_client_info": {
+          "package_name": "com.mauro.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928589266301-8ct69otl3mgct8165pa6ch7tdlsghids.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRlwCWQHMHpjTzaI6NRL-0PAfcLMh6Ojc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928589266301-8ct69otl3mgct8165pa6ch7tdlsghids.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
